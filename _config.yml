@@ -1,4 +1,4 @@
-name: gbengasosan
+name: "gbenga's chronicles"
 favicon: null
 layout_spectrum: 0.5134698888286948
 typography_spectrum: 0.7322581054177135
@@ -22,8 +22,8 @@ color:
     - '#12050c'
     - '#534e62'
     - '#fcf1ff'
-  brandStrength: 0.6813876854721457
-  lightness: 0.25
-  saturation: 0.3250283063389361
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
